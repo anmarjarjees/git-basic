@@ -1,2 +1,8 @@
 # git-basic
-Learning Git and GitHub The Basic For FSSD Group2
+## the essential steps
+Learning _Git and GitHub_ The Basic For FSSD Group2
+
+For PC | For Mac
+------------ | -------------
+Windows Powershell | MAC Terminal
+Git Bash | Git Bash
