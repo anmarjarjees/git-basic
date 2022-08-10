@@ -1,6 +1,6 @@
 # git-basic
 ## the essential steps
-Learning _Git and GitHub_ The Basic For FSSD Group2
+Learning _Git and GitHub_ The Basic For my FSSD Group
 
 For PC | For Mac
 ------------ | -------------
